@@ -1,6 +1,6 @@
 # React-Native-Index
 
-Indice de temas: 
+## Indice de temas: 
 1. [Fundamentos de React](https://github.com/manuels-bts/React-Fundamentals)
 2. [Fundamentos de React con Hooks](https://github.com/manuels-bts/React-Fundamentals_II)
 3. [Counter](https://github.com/manuels-bts/React-Counter)
@@ -25,7 +25,9 @@ Indice de temas:
 
 
 **Presentaciones**
+
 [Presentaciones.pdf](https://github.com/manuels-bts/React-Native-Index/files/12874971/Presentaciones.pdf)
 
 **Referencia**
+
 [Curso React](https://www.udemy.com/share/104lzC3@eFfLCZeN1GTLyC3Hc85vjswJWUxQrOnvoTVgclMgGCBF7OSYPDGRoe9-l8medHYMkw==/)

@@ -96,4 +96,33 @@ git config --global user.email "Tu correo"
 
 
 # UTILS
+- Crear un nuevo proyecto con template de typescript
+
+
+  `npx react-native init projectName --template react-native-template-typescript`
+
+- Levantar el ambiente
+
+`npm start`
+
+- Correr aplicacion en Android
+
+`npx react-native run-android`
+
+- Correr apliacion en iOS
+
+`npx react-native run-ios`
+
+  - Correr aplicacion en Simulador de iOS especifico
+
+`npx react-native run-ios --simulator='iPhone 15 Pro'`
+
+  - Correr aplicacion en Dispositivo de iOS
+
+`npx react-native run-ios --device='iPhone Pro de Manuel'`
+
+ 
+- Ver lsta de simuladores / dispositivos 
+
+`xcrun simctl list devices`
 

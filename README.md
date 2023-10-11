@@ -1,7 +1,6 @@
 # React-Native-Index
 
-![react-native-nedir-2019-06-19-215527-0](https://github.com/manuels-bts/React-Native-Index/assets/116088500/7aac6900-5f56-4f65-9858-8aedf5607304)
-
+![React-Native-Developer-1](https://github.com/manuels-bts/React-Native-Index/assets/116088500/f6830401-bc54-46a2-a91c-66277e350b7f)
 
 
 ## Indice de temas: 
